@@ -47,7 +47,7 @@ body {
   #products .card_container {
     display: flex;
     flex-wrap: wrap;
-    width: 1140px;
+    width: 1100px;
     margin: 0 auto; }
     #products .card_container .card {
       width: calc(100% / 3 - 40px);
